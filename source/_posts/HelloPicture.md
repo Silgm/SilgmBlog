@@ -10,3 +10,4 @@ category: 其他
 
 以下是Lena标准图像
 {% asset_img lena.jpg %}
+{% asset_img lena_gray.jpg %}
