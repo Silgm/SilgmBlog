@@ -100,4 +100,7 @@ jsonContent:
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/Silgm/SilgmBlogPublish.git
+  branch: master
+  message: 
