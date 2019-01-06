@@ -14,15 +14,15 @@ category:
 
 ## 以下是测试部分
  
-### 图片显示测试
+### 1.图片显示测试
 {% asset_img test.jpg test %}
-### 内置asset folder超链接
+### 2.内置asset folder超链接
 {% asset_link test.jpg test图片超链接 %}
 
-### 使用markdown语法显示图片
+### 3.使用markdown语法显示图片
 ![](test.jpg)
  
-### tab形式代码块, 不带高亮
+### 4.tab形式代码块, 不带高亮
     #include <stdio.h>
     int main(int argc, char *argv[])
     {
@@ -30,7 +30,7 @@ category:
         return 0;
     }
 
-### 内置方式代码块, 带高亮
+### 5.内置方式代码块, 带高亮
 ```C
 #include <stdio.h>
 int main(int argc, char *argv[])
