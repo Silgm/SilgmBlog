@@ -38,13 +38,16 @@ Blockquote
 > This is a quote
 
 <!-- Links -->
-Links
-[youtube](www.youtube.com)
-[google](www.google.com)
+Links, 注意Http必须加上
+[youtube](https://www.youtube.com)
+[google](https://www.google.com)
+[百度](https://www.baidu.com)
 
 <!-- links with tips -->
 [youtube](www.youtube.com "youtube")
 [google](www.google.com, "google")
+[百度](https://www.baidu.com)
+
 
 <!-- UL -->
 UL
@@ -108,4 +111,5 @@ Task Lists
 * [x] Task 1
 * [x] Task 2
 * [ ] Task 3
-  
+
+

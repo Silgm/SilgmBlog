@@ -39,3 +39,25 @@ int main(int argc, char *argv[])
     return 0;
 }
 ```
+
+### 6.外部url链接
+<!-- Http必须加 -->
+#### Google
+<https://www.google.com>
+#### Baidu
+<https://www.baidu.com>
+
+### 7.外链测试
+#### 网易云
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=29490357&auto=1&height=66"></iframe>
+
+#### Youtube
+如www.youtube.com/watch?v=Rub-JsjMhWY&t=20s
+`Rub-JsjMhWY`就是video_id
+{% youtube Rub-JsjMhWY %}
+
+#### Bilibili
+<iframe src="//player.bilibili.com/player.html?aid=33385105&cid=58437850&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" marginheight="0" width=600 height=600 allowfullscreen="true"> </iframe>
+
+#### Soundcloud
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/600875265&color=%2376b1cb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
