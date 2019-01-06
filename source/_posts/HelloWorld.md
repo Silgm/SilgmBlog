@@ -32,10 +32,10 @@ category:
 
 ### 内置方式代码块, 带高亮
 ```C
-    #include <stdio.h>
-    int main(int argc, char *argv[])
-    {
-        printf("Hello, World");
-        return 0;
-    }
+#include <stdio.h>
+int main(int argc, char *argv[])
+{
+    printf("Hello, World");
+    return 0;
+}
 ```
